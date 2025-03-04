@@ -116,4 +116,4 @@ backup:
   theme: butterfly
   message: Backup MyBlog
   repository: 
-    github: git@github.com:mzsmnx/mzsm.git,main
+    github: git@github.com:mzsmnx/hexo-backup.git,main
